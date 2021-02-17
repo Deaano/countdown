@@ -1,0 +1,37 @@
+.bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  width: 100vw;
+  height: 100vh;
+}
+
+
+h1 {
+  font-family: 'Langar', cursive;
+  font-size: 5rem;
+  text-align: center;
+  font-weight: bold;
+}
+
+
+.countdown-container {
+  display: flex;
+  font-size: 4rem;
+  justify-content: center;
+}
+
+
+p {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+span {
+  font-family: 'Langar', cursive;
+  font-size: 2.5rem;
+  margin: 4rem;
+}
